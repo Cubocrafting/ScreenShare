@@ -38,8 +38,8 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor Red " Brother tranquilo no es virus - Cubocarafting  ¡Viva Chile CTM! " -NoNewLine
-Write-Host -ForegroundColor Green "HI :)";
+Write-Host -ForegroundColor Red " Brother tranquilo no es virus - SSTool By MamitasPuebla  ¡Viva Chile CTM! " -NoNewLine
+Write-Host -ForegroundColor Green "Cubocaraftin";
 Write-Host "";
 
 function Test-Admin {;$currentUser = New-Object Security.Principal.WindowsPrincipal $([Security.Principal.WindowsIdentity]::GetCurrent());$currentUser.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator);}
